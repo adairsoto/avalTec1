@@ -1,0 +1,16 @@
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\bin\Debug\net5.0\Projeto2.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\bin\Debug\net5.0\Projeto2.deps.json
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\bin\Debug\net5.0\Projeto2.runtimeconfig.json
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\bin\Debug\net5.0\Projeto2.runtimeconfig.dev.json
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\bin\Debug\net5.0\Projeto2.dll
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\bin\Debug\net5.0\Projeto2.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\obj\Debug\net5.0\Projeto2.csproj.AssemblyReference.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\obj\Debug\net5.0\Projeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\obj\Debug\net5.0\Projeto2.AssemblyInfoInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\obj\Debug\net5.0\Projeto2.AssemblyInfo.cs
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\obj\Debug\net5.0\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\obj\Debug\net5.0\Projeto2.dll
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\obj\Debug\net5.0\refint\Projeto2.dll
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\obj\Debug\net5.0\Projeto2.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\obj\Debug\net5.0\Projeto2.genruntimeconfig.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto2\obj\Debug\net5.0\ref\Projeto2.dll

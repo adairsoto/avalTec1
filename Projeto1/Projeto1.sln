@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto1", "Projeto1.csproj", "{9EA70F65-AB76-42C6-A7C8-24B060C1FC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto2", "..\Projeto2\Projeto2.csproj", "{B82E7AC1-051E-49E1-B468-6A6820E44343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto3", "..\Projeto3\Projeto3.csproj", "{F8ACF113-6216-4F8E-96E4-EF356F85ACCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA70F65-AB76-42C6-A7C8-24B060C1FC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA70F65-AB76-42C6-A7C8-24B060C1FC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA70F65-AB76-42C6-A7C8-24B060C1FC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA70F65-AB76-42C6-A7C8-24B060C1FC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82E7AC1-051E-49E1-B468-6A6820E44343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82E7AC1-051E-49E1-B468-6A6820E44343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82E7AC1-051E-49E1-B468-6A6820E44343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82E7AC1-051E-49E1-B468-6A6820E44343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8ACF113-6216-4F8E-96E4-EF356F85ACCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8ACF113-6216-4F8E-96E4-EF356F85ACCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8ACF113-6216-4F8E-96E4-EF356F85ACCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8ACF113-6216-4F8E-96E4-EF356F85ACCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {263814B3-F080-4E18-922E-547EF797C630}
+	EndGlobalSection
+EndGlobal

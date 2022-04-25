@@ -1,0 +1,24 @@
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\bin\Debug\net5.0\Projeto1.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\bin\Debug\net5.0\Projeto1.deps.json
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\bin\Debug\net5.0\Projeto1.runtimeconfig.json
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\bin\Debug\net5.0\Projeto1.runtimeconfig.dev.json
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\bin\Debug\net5.0\Projeto1.dll
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\bin\Debug\net5.0\Projeto1.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\obj\Debug\net5.0\Projeto1.csproj.AssemblyReference.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\obj\Debug\net5.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\obj\Debug\net5.0\Projeto1.AssemblyInfoInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\obj\Debug\net5.0\Projeto1.AssemblyInfo.cs
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\obj\Debug\net5.0\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\obj\Debug\net5.0\Projeto1.dll
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\obj\Debug\net5.0\refint\Projeto1.dll
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\obj\Debug\net5.0\Projeto1.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\obj\Debug\net5.0\Projeto1.genruntimeconfig.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\Projeto1\obj\Debug\net5.0\ref\Projeto1.dll
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Debug\net5.0\Projeto1.csproj.AssemblyReference.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Debug\net5.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Debug\net5.0\Projeto1.AssemblyInfoInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Debug\net5.0\Projeto1.AssemblyInfo.cs
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Debug\net5.0\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Debug\net5.0\Projeto1.dll
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Debug\net5.0\refint\Projeto1.dll
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Debug\net5.0\Projeto1.pdb
