@@ -22,3 +22,11 @@ C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Deb
 C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Debug\net5.0\Projeto1.dll
 C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Debug\net5.0\refint\Projeto1.dll
 C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Debug\net5.0\Projeto1.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\bin\Debug\net5.0\Projeto1.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\bin\Debug\net5.0\Projeto1.deps.json
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\bin\Debug\net5.0\Projeto1.runtimeconfig.json
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\bin\Debug\net5.0\Projeto1.runtimeconfig.dev.json
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\bin\Debug\net5.0\Projeto1.dll
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\bin\Debug\net5.0\Projeto1.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Debug\net5.0\Projeto1.genruntimeconfig.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\Avaliação Técnica1\Projeto1\obj\Debug\net5.0\ref\Projeto1.dll

@@ -18,7 +18,7 @@
 
         public override string ToString()
         {
-            return IdProduto + " - " + NomeProduto + " - Qtd: " + QtdProduto + " - Valor Unidade: " + ValorProduto;
+            return IdProduto + " - " + NomeProduto + " - Qtd em estoque: " + QtdProduto + " - Valor Unidade: " + ValorProduto;
         }
 
 
